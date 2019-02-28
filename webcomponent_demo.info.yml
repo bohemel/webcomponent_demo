@@ -1,0 +1,5 @@
+name: Webcomponent Demo
+type: module
+description: Webcomponent inclusion via theme example.
+package: Custom
+core: 8.x

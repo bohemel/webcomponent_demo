@@ -1,0 +1,7 @@
+element:
+  version: 0.0.1
+  css:
+    theme:
+      css/styles.css: {}
+  js:
+    js/element.js: { minified: true }

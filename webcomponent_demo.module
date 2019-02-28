@@ -1,0 +1,17 @@
+<?php
+
+/**
+ * @file
+ * Contains code for webcomponent_demo module.
+ */
+
+/**
+ * Implements hook_theme().
+ */
+function webcomponent_demo_theme($existing, $type, $theme, $path) {
+  return [
+    'webcomponent_demo' => [
+      'variables' => ['src' => '']
+    ],
+  ];
+}
